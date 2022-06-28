@@ -1,3 +1,4 @@
 # deluxe_stat_bot_rs
 
-WIP
+DISCONTINUED </br>
+Functionality will be re-factored to a pipeline process for the honey faucet project. </br>
